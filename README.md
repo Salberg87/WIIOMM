@@ -1,5 +1,8 @@
 # 🖥️ WIIOMM — What Is Installed On My Mac?
 
+# ![WIIOMM Inventory & Audit](https://github.com/Salberg87/WIIOMM/actions/workflows/inventory.yml/badge.svg)
+# ![Dependabot Status](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)
+
 WIIOMM is a fully automated, Git-synced system audit tool for macOS. It answers the question:
 
 > "What is actually installed on this machine?"

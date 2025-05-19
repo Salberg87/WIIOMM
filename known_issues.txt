@@ -1,0 +1,4 @@
+# Format: <package>: <issue description>
+python@3.13: Known to break with numpy < 1.25
+docker: Version 4.41.2 has a bug with Apple M4 chips
+npm@11.4.0: Not compatible with some global packages 
