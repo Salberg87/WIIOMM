@@ -1,10 +1,15 @@
 # 🖥️ WIIOMM — What Is Installed On My Mac?
 
-| Workflow           | Status                                                                 |
-|--------------------|------------------------------------------------------------------------|
-| Inventory & Audit  | ![WIIOMM Inventory & Audit](https://github.com/Salberg87/WIIOMM/actions/workflows/inventory.yml/badge.svg) |
-| Dependabot         | ![Dependabot Status](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)         |
-| Last Inventory Run | ![Last Inventory Run](https://img.shields.io/badge/last%20inventory%20run-updating-blue)                  |
+| Metric              | Status Badge                                                                 |
+|---------------------|------------------------------------------------------------------------------|
+| Python              | ![Python](https://img.shields.io/endpoint?url=https://Salberg87.github.io/WIIOMM/badges.json&style=flat&label=python&query=$.python)                   |
+| Node.js             | ![Node.js](https://img.shields.io/endpoint?url=https://Salberg87.github.io/WIIOMM/badges.json&style=flat&label=node.js&query=$.node)               |
+| Homebrew Packages   | ![Homebrew%20Pkgs](https://img.shields.io/endpoint?url=https://Salberg87.github.io/WIIOMM/badges.json&style=flat&label=homebrew&query=$.homebrew)        |
+| Homebrew Casks      | ![Casks](https://img.shields.io/endpoint?url=https://Salberg87.github.io/WIIOMM/badges.json&style=flat&label=casks&query=$.cask)                        |
+| npm Global Packages | ![npm%20Pkgs](https://img.shields.io/endpoint?url=https://Salberg87.github.io/WIIOMM/badges.json&style=flat&label=npm%20global&query=$.npm)             |
+| VS Code Extensions  | ![VS%20Code%20Ext](https://img.shields.io/endpoint?url=https://Salberg87.github.io/WIIOMM/badges.json&style=flat&label=vscode%20ext&query=$.vscode)   |
+| Leetness            | ![Leetness](https://img.shields.io/endpoint?url=https://Salberg87.github.io/WIIOMM/badges.json&style=flat&label=leetness&query=$.leetness)            |
+| Last Inventory Run  | ![Last Run](https://img.shields.io/endpoint?url=https://Salberg87.github.io/WIIOMM/badges.json&style=flat&label=last%20run&query=$.last_run)          |
 
 ---
 
