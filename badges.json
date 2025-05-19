@@ -1,0 +1,10 @@
+{
+  "python": {"schemaVersion":1, "label":"python", "message":"3.13.3", "color":"blue"},
+  "node": {"schemaVersion":1, "label":"node.js", "message":"22.15.1", "color":"green"},
+  "homebrew": {"schemaVersion":1, "label":"homebrew pkgs", "message":"17", "color":"orange"},
+  "cask": {"schemaVersion":1, "label":"casks", "message":"12", "color":"yellow"},
+  "npm": {"schemaVersion":1, "label":"npm global", "message":"1", "color":"red"},
+  "vscode": {"schemaVersion":1, "label":"vscode ext", "message":"0", "color":"blueviolet"},
+  "leetness": {"schemaVersion":1, "label":"leetness", "message":"100%", "color":"purple"},
+  "last_run": {"schemaVersion":1, "label":"last run", "message":"2025-05-19 23:15:28", "color":"blue"}
+}
