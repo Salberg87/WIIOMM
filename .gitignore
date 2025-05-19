@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+.cursor/
+.cursor/mcp.json
+
+# Logs
+*.log
+
+# Keep all inventory files
+!inventory/
+!inventory/*.md
