@@ -3,7 +3,7 @@
 [![WIIOMM Inventory & Audit](https://github.com/Salberg87/WIIOMM/actions/workflows/inventory.yml/badge.svg)](https://github.com/Salberg87/WIIOMM/actions/workflows/inventory.yml)
 [![Dependabot Status](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)](https://github.com/Salberg87/WIIOMM/network/updates)
 [![CodeQL](https://github.com/Salberg87/WIIOMM/actions/workflows/codeql.yml/badge.svg)](https://github.com/Salberg87/WIIOMM/security/code-scanning)
-**Last Inventory Run:** updating... <!--LAST_INVENTORY_RUN-->
+**Last Inventory Run:** 2025:05:19 20:43-26 <!--LAST_INVENTORY_RUN-->
 
 WIIOMM is a fully automated, Git-synced system audit tool for macOS. It answers the question:
 
