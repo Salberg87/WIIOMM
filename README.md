@@ -1,25 +1,18 @@
 # 🖥️ WIIOMM — What Is Installed On My Mac?
 
-<<<<<<< HEAD
 | Workflow           | Status                                                                 |
 |--------------------|------------------------------------------------------------------------|
 | Inventory & Audit  | ![WIIOMM Inventory & Audit](https://github.com/Salberg87/WIIOMM/actions/workflows/inventory.yml/badge.svg) |
 | Dependabot         | ![Dependabot Status](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)         |
 | Last Inventory Run | ![Last Inventory Run](https://img.shields.io/badge/last%20inventory%20run-updating-blue)                  |
-=======
-<<<<<<< HEAD
-| Workflow                | Status                                                                 |
-|-------------------------|------------------------------------------------------------------------|
-| Inventory & Audit       | ![WIIOMM Inventory & Audit](https://github.com/Salberg87/WIIOMM/actions/workflows/inventory.yml/badge.svg) |
-| Dependabot              | ![Dependabot Status](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)          |
-| Last Inventory Run      | ![Last Inventory Run](https://img.shields.io/badge/last%20inventory%20run-updating-blue)                   |
->>>>>>> 55261b25f6cec8eea5a231579854db07618c53eb
+
+---
 
 WIIOMM is a fully automated, Git-synced system audit tool for macOS. It answers the question:
 
 > "What is actually installed on this machine?"
 
-Built to be leet, lightweight, and terminal-native, it generates daily reports of system packages, dev tools, and environment config — and diffs them against the last known state.
+Built to be lightweight, and terminal-native, it generates daily reports of system packages, dev tools, and environment config — and diffs them against the last known state.
 
 ---
 
@@ -115,16 +108,6 @@ crontab -e
 
 ---
 
-## 🧰 Future Upgrades
-
-- Obsidian vault integration
-- Brewfile auto-generation
-- Hardware change detection
-- Slack/email diff notifications
-- Cross-device setup sync via dotfiles
-
----
-
 ## 🧠 Philosophy
 
 > "We don't guess what's on the machine — we **track** it."
@@ -136,4 +119,4 @@ Built for devs who want to **stay in control**.
 
 ## 💾 License
 
-MIT — use, fork, remix.
+MIT — use, fork, remix. 
