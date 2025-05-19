@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: '0 9 * * *' # Every day at 09:00 UTC
 
+permissions:
+  contents: read
+
 jobs:
   inventory:
     runs-on: macos-latest
